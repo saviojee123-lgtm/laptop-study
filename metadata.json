@@ -1,0 +1,6 @@
+{
+  "name": "System Inventory",
+  "description": "A professional dashboard and management system for monitoring and cataloging laptops, active dev environments, and technical resources with real-time performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
